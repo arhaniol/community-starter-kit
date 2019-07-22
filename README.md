@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+To jest plik Readme
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Mozesz tu przeczytac co robimy
 
 ## Getting started
 
